@@ -1,0 +1,9 @@
+*{
+    margin:1cm;
+    padding: 1;
+    background-color:seashell
+}
+.d-block{
+    background-color: lightyellow;
+    align-items: center;
+}

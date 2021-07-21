@@ -1,0 +1,28 @@
+
+*{
+    margin: 1px;
+    padding:3mm;
+    background-color: seashell;
+   
+}
+.card-img-top{
+
+width: 50mm;
+border: darkslategrey;
+border-width: 4ex;
+align-items: center;
+}
+.card-body{
+text-align: center;
+}
+.navbar{
+    background-color:lightyellow;
+}
+.row{
+    background-color: lightyellow;
+}
+.d-block{
+    background-color: lightyellow;
+}
+
+    

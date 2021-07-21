@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.carousel-item{
+    height: 10cm;
+}
+.Head{
+    text-align: center;
+    background-color: burlywood;
+    border: floralwhite;
+    
+
+}
+.introtext{
+font-family:'Times New Roman', Times, serif;
+font-style: italic;
+
+}
+.Introduction{
+    background-color:lightsteelblue;
+    margin-top: 1cm;
+}
+.logo{
+    align-items: center;
+    border-radius: 5mm;
+}
+
